@@ -1,0 +1,5 @@
+# Git Ignore for Ki-cad file tree.
+
+*/Spct-backups
+*/.DS_Store
+
