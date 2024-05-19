@@ -1,0 +1,34 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,MANUFACTURER,Manufacturer
+C1,330uF/50V,https://www.mouser.com/datasheet/2/420/Chemi_Con_MVHRA_e-3313642.pdf,Custom_Library:CP_Elec_12.5x12.5,1,,,Chemi-con/EMVH500ARA331MKG5S
+"C2,C3,C4,C6,C7,C12",100nF/50V,~,Capacitor_SMD:C_0603_1608Metric,6,,,Samsung/CL10B104MB8NNNC
+C5,4.7F/50V,~,Capacitor_SMD:C_1206_3216Metric,1,,,KEMET/C1206C475K5PAC
+C8,1uF/10V,~,Capacitor_SMD:C_0603_1608Metric,1,,,Taiyoyuden/LMK107B7105MA-T
+C9,27pF/10V,~,Capacitor_SMD:C_0603_1608Metric,1,,,KEMET/C0603C270J8HACTU
+"C10,C11,C15",10uF/10V,https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf,Capacitor_SMD:C_0805_2012Metric,3,,,Samsung/CL21A106KPFNNNF
+"C13,C14",22uF/10V,https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf,Capacitor_SMD:C_0805_2012Metric,2,,,Samsung/CL21A226MPQNNNE
+"D1,D2",B360B-13-F,https://www.mouser.com/datasheet/2/115/DIOD_S_A0004140824_1-2542447.pdf,Diode_SMD:D_SMB,2,,,
+D3,MM3Z3V3T1G,~,Custom_Library:D_SOD-323-2,1,,,Onsemni
+D4,150060BS55040,https://www.we-online.com/components/products/datasheet/150060BS55040.pdf,LED_SMD:LED_0603_1608Metric,1,,,Würth Elektronik
+F1,0679H5000-01,https://www.mouser.com/datasheet/2/643/ds_cp_0679h_series-1290853.pdf,Custom_Library:Fuse_2410_6225_Metric,1,,,
+"J1,J4,J6,J8,J9",EH_B2B-EH-A,~,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,5,,,JST
+J2,EH_B3B-EH-A,~,Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,1,,,JST
+J3,EH_B8B-EH-A,~,Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical,1,,,JST
+J5,EH_B4B-EH-A,~,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,1,,,JST
+J7,EH_B6B-EH-A,~,Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical,1,,,JST
+L1,22uH,~,Custom_Library:L_Bourns_SRR6028,1,,,Bourns/SRR6028-220Y
+LS1,CMT-7525-80-SMT-TR,,Custom_Library:XDCR_CMT-7525-80-SMT-TR,1,,CUI Inc.,
+"Q1,Q2,Q3",2N7002,https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs,Package_TO_SOT_SMD:SOT-23,3,,,
+"R1,R4,R7,R9,R12",100,~,Resistor_SMD:R_0603_1608Metric,5,,,
+"R2,R19,R20,R23",75k,~,Resistor_SMD:R_0603_1608Metric,4,,,
+"R3,R6,R8,R13,R14,R15",10k,~,Resistor_SMD:R_0603_1608Metric,6,,,
+"R5,R11",330,~,Resistor_SMD:R_0603_1608Metric,2,,,
+"R10,R16,R17,R18",4.7k,~,Resistor_SMD:R_0603_1608Metric,4,,,
+R21,0,~,Resistor_SMD:R_0603_1608Metric,1,,,
+U1,NUCLEO-F411RE,,Module:ST_NUCLEO-F401RE,1,,STMicroelectronics,
+ ->,2x19 2.54mm pitch Box Header,,,2,,,
+U2,MCP4922-E/SL,https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/22250A.pdf,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,1,,,Microchips
+U3,367661,,Connector_Pin:MAXON_DRV,1,,,
+ ->,1x8 2.54mm pitch Box Header,,,1,,,
+ ->,1x9 2.54mm pitch Box Header,,,1,,,
+U4,24LC512T-I/SN,http://ww1.microchip.com/downloads/en/DeviceDoc/21754M.pdf,Package_SO:SOIC-8_5.275x5.275mm_P1.27mm,1,,,Microchips
+U6,ISL85410FRZ,https://www.mouser.com/datasheet/2/698/REN_isl85410_DST_20190225-1998694.pdf,Custom_Library:SON50P300X300X100-13N_270X200_,1,,RENESAS,

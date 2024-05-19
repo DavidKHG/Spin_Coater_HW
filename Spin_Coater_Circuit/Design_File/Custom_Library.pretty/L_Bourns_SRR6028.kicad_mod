@@ -1,0 +1,239 @@
+(footprint "L_Bourns_SRR6028"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Shielded Power Inductor SMD 3x3x1mm, Coilcraft LPS3010, https://www.coilcraft.com/pdfs/lps3010.pdf")
+	(tags "inductor low profile")
+	(property "Reference" "REF**"
+		(at 0.1 -4.6 0)
+		(layer "F.SilkS")
+		(uuid "1e484cf0-7672-48d0-bce3-2c31e87a0213")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Bourns_SRR6028"
+		(at 0 2.5 0)
+		(layer "F.Fab")
+		(uuid "2676a0b3-fad8-4bb9-ad73-669d4d814bf6")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Footprint" "L_Bourns_SRR6028"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5a98a95-8429-4169-b630-aed03e042e83")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5f2643d-f5ea-4f1f-a99a-75957bd32493")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "54ed92b1-4390-467c-98f3-f65bac12ec59")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.6 3.9)
+		(end 3.6 3.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5d7b5211-dfdd-4d0d-a340-351110945e5a")
+	)
+	(fp_line
+		(start -3.575 -3.9)
+		(end 3.6 -3.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d2e70247-6b60-4768-bee5-4ccac95ac83a")
+	)
+	(fp_line
+		(start -3.9 -3.9)
+		(end 3.9 -3.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "252ac6ca-17b7-4142-a3a7-95eed3dcd831")
+	)
+	(fp_line
+		(start -3.9 3.9)
+		(end -3.9 -3.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d52f6007-1da1-42c3-859f-5ed4b9c3597c")
+	)
+	(fp_line
+		(start 3.9 -3.9)
+		(end 3.9 3.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fc0a82de-d545-4cc8-8381-7261a72fb65d")
+	)
+	(fp_line
+		(start 3.9 3.9)
+		(end -3.9 3.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "871dc8a4-2e42-4c61-ac4a-ed2812e5218b")
+	)
+	(fp_line
+		(start -3.4 -3.4)
+		(end 3.4 -3.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d94bddf0-8e24-413e-aa83-24ae550c25c0")
+	)
+	(fp_line
+		(start -3.4 3.4)
+		(end -3.4 -3.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a29e5d51-808c-45e5-bb42-fff8c24516ed")
+	)
+	(fp_line
+		(start -3.4 3.4)
+		(end 3.4 3.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e00548cd-7a98-4665-8982-c5faf66d308b")
+	)
+	(fp_line
+		(start 3.4 3.4)
+		(end 3.4 -3.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9454d882-e552-42ae-aa16-0f0aec3e605b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "c0b354f1-4c7f-4425-a430-dad6fefeb109")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at -3.2 0)
+		(size 0.76 2.54)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(zone_connect 2)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(arc
+						(start 2.136417 -2.481691)
+						(mid 0.5 0)
+						(end 2.136417 2.481691)
+					)
+					(xy 2.15 3.65) (xy -0.45 3.65) (xy -0.45 -3.65) (xy 2.15 -3.65)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "b89c04c5-dca2-484c-b6cf-9e9159ac25a3")
+	)
+	(pad "2" smd custom
+		(at 3.2 0 180)
+		(size 0.76 2.54)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(zone_connect 2)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 2.15 3.65) (xy -0.45 3.65) (xy -0.45 -3.65) (xy 2.15 -3.65)
+					(arc
+						(start 2.136417 -2.481691)
+						(mid 0.5 0)
+						(end 2.136417 2.481691)
+					)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "9fdd48b4-e39f-471d-bc07-0aa5859a3b98")
+	)
+	(model "${KIPRJMOD}/Custom_Library.pretty/srr6028-180y.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

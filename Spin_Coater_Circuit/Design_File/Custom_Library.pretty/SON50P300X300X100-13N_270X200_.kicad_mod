@@ -1,0 +1,445 @@
+(footprint "SON50P300X300X100-13N_270X200_"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "U6"
+		(at 0.835 -2.812 180)
+		(layer "F.SilkS")
+		(uuid "df424d78-abef-4462-808f-bc006b330101")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ISL85410FRZ"
+		(at -2.665 4.25 180)
+		(layer "F.Fab")
+		(uuid "375d4966-90fa-4841-941f-1209a1af14d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "SON50P300X300X100-13N_270X200_"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d16bfc12-4f2f-40c2-8947-39b64d3df290")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.mouser.com/datasheet/2/698/REN_isl85410_DST_20190225-1998694.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d7585e47-002a-4180-a137-1fb74dbd3b1b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "38a86885-b346-4872-bc6a-f8ada80bbf3c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "MF" "Renesas / Intersil"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d53e9649-c7dd-43a8-9df0-b23225664a0f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "\nBuck Switching Regulator IC Positive Adjustable 0.6V 1 Output 1A 12-VFDFN Exposed Pad\n"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e6a25ac8-b0bd-4500-9b6c-195b94a267d3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "VFDFN-12 Renesas / Intersil"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c23f3656-39d9-4cd4-9987-c9b9b3160cee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c326dc9e-54c5-4cdd-85cb-d9652aae0d33")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/ISL85410FRZ/Intersil/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0054ece4-87a8-4612-9443-01aab1ee1bd9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "IPC-7351B"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "349b28a3-1fb9-46e3-b336-163567835b1a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "8.00"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89f70ba7-ce4a-45dc-8717-e971416f7231")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/ISL85410FRZ/Intersil/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0b843a6b-01a0-44b1-b416-96db7518016d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "ISL85410FRZ"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e60fdf5-636f-4a6b-aab1-7dc1d2e28904")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4702183&manufacturer=Renesas / Intersil&part_name=ISL85410FRZ&search_term=None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ea68234-4133-480a-a911-00d1604007c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c63320bb-f75a-4f72-b859-10c6bc09aa51")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "RENESAS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56c11eba-0296-46dc-a1a0-6b4739a6b472")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -0.54 -1.04) (xy 0.54 -1.04) (xy 0.54 1.04) (xy -0.54 1.04)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "0867fbb7-8401-454d-ab7e-30f289c117d9")
+	)
+	(fp_line
+		(start -1.5 -2)
+		(end 1.5 -2)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7dbc65b1-6482-410a-94e3-a09d5d17a8ed")
+	)
+	(fp_line
+		(start -1.5 2)
+		(end 1.5 2)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f339879b-4cbf-45e5-af2f-70d02781e979")
+	)
+	(fp_circle
+		(center -2.475 -1.25)
+		(end -2.375 -1.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "f1b2afbb-7414-410e-a44b-a70b3e86ec5e")
+	)
+	(fp_line
+		(start -2.105 -2.25)
+		(end -2.105 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5beeada1-5be4-47fb-886a-2c2c4fc75ea4")
+	)
+	(fp_line
+		(start -2.105 -2.25)
+		(end 2.105 -2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "adfea00a-29c8-4024-8b71-26257465e9a9")
+	)
+	(fp_line
+		(start -2.105 2.25)
+		(end 2.105 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e2f2cf92-885f-4943-bf60-6d7a865b0290")
+	)
+	(fp_line
+		(start 2.105 -2.25)
+		(end 2.105 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dd503bfb-fe58-4607-a421-5be36c68ad89")
+	)
+	(fp_line
+		(start -1.5 -2)
+		(end -1.5 2)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2da89774-5551-4e32-9c5a-cbb073bbcb4d")
+	)
+	(fp_line
+		(start -1.5 -2)
+		(end 1.5 -2)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3f83833d-dc68-49d3-9820-59603639c757")
+	)
+	(fp_line
+		(start -1.5 2)
+		(end 1.5 2)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e43b43d4-f932-4751-be08-ea14a403b9db")
+	)
+	(fp_line
+		(start 1.5 -2)
+		(end 1.5 2)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0c58ea63-79af-4377-9c78-b02ee1ce0a7d")
+	)
+	(fp_circle
+		(center -2.475 -1.25)
+		(end -2.375 -1.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "a5bcdd52-aab6-42e7-82f2-9614921f6abb")
+	)
+	(pad "1" smd roundrect
+		(at -1.435 -1.25)
+		(size 0.84 0.26)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.125)
+		(uuid "9114364f-836a-4c60-9163-afe666a95042")
+	)
+	(pad "2" smd roundrect
+		(at -1.435 -0.75)
+		(size 0.84 0.26)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.125)
+		(uuid "baf1ff30-4144-496d-a2d5-17caf0c1cb5d")
+	)
+	(pad "3" smd roundrect
+		(at -1.435 -0.25)
+		(size 0.84 0.26)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.125)
+		(uuid "a9cccc43-8854-4330-adac-f37a24b3baab")
+	)
+	(pad "4" smd roundrect
+		(at -1.435 0.25)
+		(size 0.84 0.26)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.125)
+		(uuid "295831f0-3506-4bfb-8794-9608e00e10ab")
+	)
+	(pad "5" smd roundrect
+		(at -1.435 0.75)
+		(size 0.84 0.26)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.125)
+		(uuid "c467257a-0c4d-4b4d-a167-ee56245d76ae")
+	)
+	(pad "6" smd roundrect
+		(at -1.435 1.25)
+		(size 0.84 0.26)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.125)
+		(uuid "1ed07d14-6854-4db5-8c49-662571bfef46")
+	)
+	(pad "7" smd roundrect
+		(at 1.435 1.25)
+		(size 0.84 0.26)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.125)
+		(uuid "4b9dc393-58c5-4771-a780-ee86d49d3fb9")
+	)
+	(pad "8" smd roundrect
+		(at 1.435 0.75)
+		(size 0.84 0.26)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.125)
+		(uuid "4f96f86e-fe77-4eb4-8e98-6ff5742c4664")
+	)
+	(pad "9" smd roundrect
+		(at 1.435 0.25)
+		(size 0.84 0.26)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.125)
+		(uuid "5ef932ce-7fc4-4940-93b4-88b69a8f02b9")
+	)
+	(pad "10" smd roundrect
+		(at 1.435 -0.25)
+		(size 0.84 0.26)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.125)
+		(uuid "0e9b2aed-8839-4a0e-9fea-fa2d1d1b7cdb")
+	)
+	(pad "11" smd roundrect
+		(at 1.435 -0.75)
+		(size 0.84 0.26)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.125)
+		(uuid "d7592245-5bc2-4fe7-98ed-a932c3d49260")
+	)
+	(pad "12" smd roundrect
+		(at 1.435 -1.25)
+		(size 0.84 0.26)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.125)
+		(uuid "7b6114eb-723e-48ef-ad21-276c3a2ea50d")
+	)
+	(pad "13" smd rect
+		(at 0 0)
+		(size 1.7 3.3)
+		(layers "F.Cu" "F.Mask")
+		(uuid "84e60169-ca1b-4eb4-9998-924c74043a4f")
+	)
+)

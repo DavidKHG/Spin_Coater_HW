@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Custom_Library")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "ISL85410FRZ")(type "KiCad")(uri "C:/Users/USER/Downloads/ISL85410FRZ/ISL85410FRZ.kicad_sym")(options "")(descr ""))
+  (lib (name "CMT-7525-80-SMT-TR")(type "KiCad")(uri "C:/Users/USER/Downloads/CMT-7525-80-SMT-TR/CMT-7525-80-SMT-TR.kicad_sym")(options "")(descr ""))
+)
