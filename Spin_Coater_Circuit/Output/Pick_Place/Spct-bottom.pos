@@ -1,0 +1,14 @@
+### Footprint positions - created on 2025-08-19T00:15:38+0900 ###
+### Printed by KiCad version 9.0.3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                    Package                                                          PosX       PosY       Rot  Side
+J1        Mini-Fit(5569-02A)     Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal           14.9200   107.1730  -90.0000  bottom
+J2        EH_B3B-EH-A            JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical                         41.8290   114.3780    0.0000  bottom
+J3        FTSH-105-01-L-DV-K-TR  PinHeader_2x05_P1.27mm_Vertical_SMD                           80.3656    94.7524    0.0000  bottom
+J5        EH_B4B-EH-A            JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical                          4.7870    77.7020   90.0000  bottom
+J10       Conn_01x08             PinSocket_1x08_P2.54mm_Vertical                               66.7820    31.1680  180.0000  bottom
+J11       Conn_02x09_Odd_Even    PinSocket_2x09_P2.54mm_Vertical                               31.2820    12.1180    0.0000  bottom
+J12       Motor_Output           Molex_Mini-Fit_Jr_5569-04A2_2x02_P4.20mm_Horizontal           15.5820    16.7580  -90.0000  bottom
+J13       Motor_Feedback         Molex_Micro-Fit_3.0_43045-0621_2x03-1MP_P3.00mm_Horizontal    10.3670    32.6580  -90.0000  bottom
+## End

@@ -1,0 +1,3 @@
+[submodule "kicad-action-scripts"]
+	path = kicad-action-scripts
+	url = https://github.com/jsreynaud/kicad-action-scripts
